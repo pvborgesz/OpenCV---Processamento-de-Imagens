@@ -1,2 +1,4 @@
 *.py linguist-language=python
 *.ipynb linguist-language=TypeScript
+
+src/* linguist-detectable=false
